@@ -1,13 +1,13 @@
-# 📘 Análisis Numérico App
+# Análisis Numérico App
 
 Una aplicación Flutter interactiva para la enseñanza y práctica de **métodos numéricos**.  
 Permite resolver ecuaciones, encontrar raíces y construir polinomios de interpolación de manera visual, mostrando paso a paso las iteraciones y la gráfica correspondiente.
 
 ---
 
-## 🚀 Características principales
+##  Características principales
 
-### 🔹 Métodos de raíces implementados
+### Métodos de raíces implementados
 - **Newton-Raphson**
 - **Punto fijo (x = g(x))**
 - **Bisección**
@@ -21,7 +21,7 @@ Cada método muestra:
 
 ---
 
-### 🔹 Interpolación de Lagrange
+### Interpolación de Lagrange
 Construye el **polinomio de interpolación** que pasa exactamente por los puntos ingresados.
 
 - Devuelve el **polinomio explícito**  
@@ -36,7 +36,7 @@ Construye el **polinomio de interpolación** que pasa exactamente por los puntos
 
 ---
 
-## 🧮 Ejemplo de uso
+## Ejemplo de uso
 
 1. Selecciona un método desde el menú desplegable.
 2. Ingresa la función (por ejemplo, `f(x) = x^3 - x - 1`).
@@ -46,7 +46,7 @@ Construye el **polinomio de interpolación** que pasa exactamente por los puntos
 
 Para la interpolación de Lagrange:
 
-## 🧰 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - **Flutter 3.x**
 - **Dart**
@@ -54,7 +54,7 @@ Para la interpolación de Lagrange:
 - **CustomPainter** para gráficas dinámicas
 - **url_launcher** para enlaces externos (perfil GitHub)
 
-## 👨‍💻 Autor
+## Autor
 
 **@Kr36x** · [GitHub](https://github.com/Kr36x)  
 Proyecto creado para aprendizaje y visualización de métodos numéricos con Flutter.
